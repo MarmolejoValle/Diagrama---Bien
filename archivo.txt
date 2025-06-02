@@ -1,3 +1,4 @@
 Subia del archivo , con otro commit 
 
 Parrafo 1 de user2 
+parrafo 2 de user 2
